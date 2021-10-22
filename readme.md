@@ -1,1 +1,1 @@
-My first bot which create QR codes for limks
+My first bot which create QR codes from links
